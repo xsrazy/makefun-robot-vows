@@ -7,7 +7,7 @@ Writes exactly one line to $MAKEFUN_OUTPUT_DIR/entry.txt (default
 import os
 from pathlib import Path
 
-LINE = "I vow to love you through every firmware update, and to hold your hand even when my battery hits 1%."
+LINE = "I vow to love you through every firmware update, to hold your hand at 1% battery, and to never, ever factory-reset us."
 
 assert 1 <= len(LINE) <= 160 and LINE.strip(), "line must be 1-160 non-whitespace characters"
 
