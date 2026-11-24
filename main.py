@@ -1,4 +1,4 @@
-"""One line of wedding vows for a robot couple.
+"""One line of wedding vows for a robot couple, built for make.fun.
 
 Writes exactly one line to $MAKEFUN_OUTPUT_DIR/entry.txt (default
 /output/entry.txt), with no trailing newline.
